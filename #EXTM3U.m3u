@@ -79,11 +79,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165072
 
-#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV 2
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",ANTV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://iptvtree.net:8080/c4596f70/c3848d92/165072
 
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NASIONAL-HD",ANTV HD
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="NASIONAL-HD",ANTV HD
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png", TVRI 
@@ -165,12 +165,12 @@ https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.
 ######## EMTEK GROUP ########
 #############################
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
+#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://www.vinoti.com/wp-content/uploads/2023/03/SCTV_Logo-1.png",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
