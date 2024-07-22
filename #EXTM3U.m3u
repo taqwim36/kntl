@@ -1,0 +1,1143 @@
+#EXTM3U
+>>>>> NASIONAL-HD
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://awsimages.detik.net.id/visual/2022/12/15/logo-trans-7_169.jpeg?w=650" ch-number="92" group-logo="",TRANS 7 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzAxNTk0ODYiLCJyZWZyZXNoX3Rva2VuIjoiMXJNelhZdUlrWXJyNUZvYTFHeFQ2QzFlaTluQ1p0XC94SGphZ0hvbEtNTnNVSTdOY3NHaFQ5RmFFbUExVDlGdnBnTEIwMFQ1NWxDamN2ZVZramZiOFlid1FhK1d1d3plK2hGWlhybWVScWx6S0FOQ3lUME1TYkhUXC80SG1iRlI4eHEyRjRjU1ZcL3RDQzUrQWFwc2hicFhlK2REc2l2MmZ5QlN4cGxhNlBoVVM2RUJzeE5oUktVcTN3NFBjS2FxSHZXTHZQdm9YTEFiZWkxRVFIRHlNckxRbzh3dE9TS01mNTkrTzVPVHY2YXQzd2V2aUxlSEljWU5KSWNoSGZwZTRPWk9SQWo2bzFsNTdYR0t3cFY0akNEVzdCTVo4ZGlFY2wyTkJmRTNFTWlvaFU0anBubEZBNzkxT1wvV2pSMFQxTW5XNFJKYkhBMDBObnJxcEhXNFEzeEQxMzdNV2pwelprcVNzaU5XYlFBMVB6cz0ifQ== 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" ch-number="92" group-logo="",TRANS TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzYwOTI0ODEiLCJyZWZyZXNoX3Rva2VuIjoiYXd4YWp1UWpKdG9USGROazhtbE5oQkNGSEpUN2xIa29zK1FVQUpmSEpINkJldHJUdlg5SjlPenkwRWhWSWFnUlR6dUFqUU5Yb0lqVFFTS09VV1BFV01sWCs5RkNHcG9KSmVublh5bmJHNlFKVGEzKytvYlpxNVlUVnZNU0wwTXZEZjNjSlFXXC9sdGRubTFhVmtnRHcxUCtrVnRYOSs2UzlDY1phUnJ5SFQzVlJIWlhVZHc2QVZRTzZ2V0dTQW4wQmtlUlpKUnNHRHcreklQVXFwcnd2RmZHazNWSlN4R3J6bzZma2RFUkFkTkszbWVhdFBoYURVS2FvbDc5ZnNGVUE1Q2lzUFJyanRtY1pPYnptYW1ZQTdVM0x5czlsY2dwVFRMTE90M3ZRUnZtQVcwV2YwejJub2VLQ2M4Y2ZiM3llUmtYTnNRYmhoS2E2SUtCK0c4cjlPRVFIbXN3NmpoUWtyNHpLQTVcL1wvUE5BPSJ9 #KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI oke
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png",GTV HD
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="NASIONAL-HD", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w490669347_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TRANS7" group-title="NASIONAL-HD",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1455163332_b744100_sleng.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="NASIONAL-HD", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2016956299_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TRANS TV" group-title="NASIONAL-HD",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w607483278_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL-HD",INDOSIAR  HD
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NASIONAL-HD",SCTV DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NASIONAL-HD",SCTV HD
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NASIONAL-HD",SCTV
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png", NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-kids-reading-quraan-television-text.png", BTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png", METRO TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png", TVONE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="NASIONAL-HD",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165072
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://iptvtree.net:8080/c4596f70/c3848d92/165072
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NASIONAL-HD",ANTV HD
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png", TVRI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indonesiacantik.co.id/wp-content/uploads/2018/10/RTV-Logo.jpg" group-title="NASIONAL-HD", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="NASIONAL-HD", BANDUNG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=http://streaming.bandungtv.tv/
+http://202.150.153.254:443/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title="NASIONAL-HD",INDONESIANA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://indonesiana.tv/
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15" group-title="NASIONAL-HD", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NASIONAL-HD", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+
+###########################
+######## MNC GROUP ########
+###########################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+#############################
+######## EMTEK GROUP ########
+#############################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s.id/mojiHD_shareext-xs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NASIONAL",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NASIONAL",Moji
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+
+
+############################
+######## VIVA GROUP ########
+############################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#############################
+######## TRANS MEDIA ########
+#############################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="NASIONAL",TransTV HD
+https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="NASIONAL",Trans7 HD
+https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+##########################
+######## LPP TVRI ########
+##########################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+
+#############################
+######## MEDIA GROUP ########
+#############################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
+#################################
+######## KOMPAS GRAMEDIA ########
+#################################
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+
+###############################
+######## NET MEDIATAMA ########
+###############################
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="NET.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+
+###############################
+######## RAJAWALI CORP ########
+###############################
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+
+
+######################
+###### LAIN-LAIN #####
+######################
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="GARUDATV.id" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"   tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="daaitv.id" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="daaitv.id" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="NASIONAL"  tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzkMXw0gEp3btOxLgbOCr-W0XF4M_fxYG-e-ulbSiYw&s",dTVi
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="NASIONAL",JAK TV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="NASIONAL", Bali Tv
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="NASIONAL",Elshinta TV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="NASIONAL",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="NASIONAL",Pesona Indonesia
+https://flv.intechmedia.net/live/ch92.m3u8
+
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="NASIONAL",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="NASIONAL",LINGKARTV 
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="NASIONAL",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="NASIONAL",TVKU
+http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="NASIONAL",JITV HD
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="NASIONAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png/revision/latest?cb=20231120154110" group-title="NASIONAL",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NASIONAL",NUSANTARA
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="NASIONAL",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="NASIONAL",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVJogja" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="NASIONAL",Tegar TV Jogja
+http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="NASIONAL",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NASIONAL",DMTV MALANG
+https://e.siar.us/live/dmtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" group-title="NASIONAL", GARUDA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png" group-title="NASIONAL",Banten TV
+https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jogjatv.png" group-title="NASIONAL",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/batamtv.png" group-title="NASIONAL",Batam TV
+http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jpm.png" group-title="NASIONAL",JPMTV
+http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="NASIONAL",Prima tv
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/simpang5tv.png" group-title="NASIONAL",Simpang5 TV
+http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png" group-title="NASIONAL",BMSTV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/brtv.png" group-title="NASIONAL",BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/smtv.png" group-title="NASIONAL",SMTV
+http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rctv.png" group-title="NASIONAL",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radartv.png" group-title="NASIONAL",Radar TV
+http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+
+=================================== CANADA TV ==================================
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA : APTN
+http://117tv.icu:8080/live/X5xRz0/944877/57320.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: A&E
+http://117tv.icu:8080/live/X5xRz0/944877/57476.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA A&E
+http://117tv.icu:8080/live/X5xRz0/944877/57264.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: ABC SPARK
+http://117tv.icu:8080/live/X5xRz0/944877/57375.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: AMC
+http://117tv.icu:8080/live/X5xRz0/944877/57376.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Animal Planet
+http://117tv.icu:8080/live/X5xRz0/944877/57377.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: BNN Bloomberg HD
+http://117tv.icu:8080/live/X5xRz0/944877/57358.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Bravo
+http://117tv.icu:8080/live/X5xRz0/944877/57379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC NEWS NETWORK (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57304.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC Calgary HD
+http://117tv.icu:8080/live/X5xRz0/944877/57381.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC Charlottetown HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/57382.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC Edmonton
+http://117tv.icu:8080/live/X5xRz0/944877/57384.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC Halifax HD
+http://117tv.icu:8080/live/X5xRz0/944877/57385.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC Montreal HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/57387.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC OTTAWA
+http://117tv.icu:8080/live/X5xRz0/944877/57305.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CBC Toronto
+http://117tv.icu:8080/live/X5xRz0/944877/57260.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC TORONTO
+http://117tv.icu:8080/live/X5xRz0/944877/57306.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC Vancouver
+http://117tv.icu:8080/live/X5xRz0/944877/57391.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CHCH (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57393.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CHCH (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57259.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CHRGD
+http://117tv.icu:8080/live/X5xRz0/944877/75653.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CITY TV CALGARY (E)
+http://117tv.icu:8080/live/X5xRz0/944877/75652.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA City TV Toronto (D)
+http://117tv.icu:8080/live/X5xRz0/944877/57394.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CITY TV TORONTO HD
+http://117tv.icu:8080/live/X5xRz0/944877/57307.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CITY TV VANCOUVER (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57395.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CMT
+http://117tv.icu:8080/live/X5xRz0/944877/57258.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CNN
+http://117tv.icu:8080/live/X5xRz0/944877/57398.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CNN
+http://117tv.icu:8080/live/X5xRz0/944877/47213.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Cottage Life HD (B)
+http://117tv.icu:8080/live/X5xRz0/944877/47217.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CP24 News HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/57357.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CP24 News HD (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57401.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CP24 HD (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57345.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CP24 FHD
+http://117tv.icu:8080/live/X5xRz0/944877/47218.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CP24 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57257.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CPAC
+http://117tv.icu:8080/live/X5xRz0/944877/57402.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CPAC English
+http://117tv.icu:8080/live/X5xRz0/944877/57352.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CPAC HD
+http://117tv.icu:8080/live/X5xRz0/944877/57351.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CRAVE 1 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57309.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CRAVE 2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57310.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CRAVE 3
+http://117tv.icu:8080/live/X5xRz0/944877/57322.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CRAVE 4 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57311.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CRIME & INVESTIGATION
+http://117tv.icu:8080/live/X5xRz0/944877/57256.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Two Atlantic
+http://117tv.icu:8080/live/X5xRz0/944877/79547.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV CALGARY (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57964.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Comedy Channel
+http://117tv.icu:8080/live/X5xRz0/944877/57408.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Drama Channel (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57254.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Edmonton Alberta HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/58725.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Halifax Nova Scotia HD
+http://117tv.icu:8080/live/X5xRz0/944877/57410.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Kitchener
+http://117tv.icu:8080/live/X5xRz0/944877/58557.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV 2 London HD
+http://117tv.icu:8080/live/X5xRz0/944877/58546.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Montreal HD
+http://117tv.icu:8080/live/X5xRz0/944877/47234.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CTV NEWS CHANNEL HD
+http://117tv.icu:8080/live/X5xRz0/944877/57350.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CTV OTTAWA
+http://117tv.icu:8080/live/X5xRz0/944877/47237.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Regina Saskatchewan HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/66381.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Saskatoon Saskatchewan HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/66382.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Sci-Fi Channel (B)
+http://117tv.icu:8080/live/X5xRz0/944877/57253.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Toronto HD (R)
+http://117tv.icu:8080/live/X5xRz0/944877/47296.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CTV2 Vancouver
+http://117tv.icu:8080/live/X5xRz0/944877/57316.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV2 Windsor HD (B)
+http://117tv.icu:8080/live/X5xRz0/944877/77165.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Barrie Ontario HD
+http://117tv.icu:8080/live/X5xRz0/944877/57373.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Discovery Channel
+http://117tv.icu:8080/live/X5xRz0/944877/57252.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Discovery Science
+http://117tv.icu:8080/live/X5xRz0/944877/57418.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: DIY NETWORK FHD
+http://117tv.icu:8080/live/X5xRz0/944877/47258.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: DTOUR HD
+http://117tv.icu:8080/live/X5xRz0/944877/57250.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA E! (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57422.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: E! CANADA HD
+http://117tv.icu:8080/live/X5xRz0/944877/57249.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Food Network
+http://117tv.icu:8080/live/X5xRz0/944877/57247.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA FOX NEWS
+http://117tv.icu:8080/live/X5xRz0/944877/47281.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: FX HD
+http://117tv.icu:8080/live/X5xRz0/944877/57268.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA FXX (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57429.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Game Show Network HD
+http://117tv.icu:8080/live/X5xRz0/944877/57430.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Ginx esports TV
+http://117tv.icu:8080/live/X5xRz0/944877/57431.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global News Kingston (D)
+http://117tv.icu:8080/live/X5xRz0/944877/57432.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Edmonton News (E)
+http://117tv.icu:8080/live/X5xRz0/944877/58724.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Global Halifax News
+http://117tv.icu:8080/live/X5xRz0/944877/57434.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global News Regina (D)
+http://117tv.icu:8080/live/X5xRz0/944877/66384.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Saskatoon (B)
+http://117tv.icu:8080/live/X5xRz0/944877/66383.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA GLOBAL TORONTO
+http://117tv.icu:8080/live/X5xRz0/944877/57435.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: GLOBAL TORONTO
+http://117tv.icu:8080/live/X5xRz0/944877/57302.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Global Vancouver
+http://117tv.icu:8080/live/X5xRz0/944877/57436.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Golf Channel HD
+http://117tv.icu:8080/live/X5xRz0/944877/57362.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: HBO 1
+http://117tv.icu:8080/live/X5xRz0/944877/57437.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA HBO 2 (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57438.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA HGTV
+http://117tv.icu:8080/live/X5xRz0/944877/57273.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA HISTORY
+http://117tv.icu:8080/live/X5xRz0/944877/47302.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA HISTORY (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57272.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: HLN
+http://117tv.icu:8080/live/X5xRz0/944877/57441.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Investigation Discovery HD (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57442.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Lifetime
+http://117tv.icu:8080/live/X5xRz0/944877/57271.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Lifetime Movie Network
+http://117tv.icu:8080/live/X5xRz0/944877/57444.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Love Nature HD
+http://117tv.icu:8080/live/X5xRz0/944877/47324.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: MAKEFUL
+http://117tv.icu:8080/live/X5xRz0/944877/57270.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: MOVIETIME HD
+http://117tv.icu:8080/live/X5xRz0/944877/47331.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA MSNBC (R)
+http://117tv.icu:8080/live/X5xRz0/944877/47332.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: MTV
+http://117tv.icu:8080/live/X5xRz0/944877/57446.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA MTV2 (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57447.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: MTV HD
+http://117tv.icu:8080/live/X5xRz0/944877/57368.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: National Geographics
+http://117tv.icu:8080/live/X5xRz0/944877/57281.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: National Geographic  HD
+http://117tv.icu:8080/live/X5xRz0/944877/47338.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA National Geographic Wild (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57450.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA National Geographic Wild
+http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: NATIONAL GEOGRAPHIC
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: NFL NETWORK HD
+http://117tv.icu:8080/live/X5xRz0/944877/47346.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA (ZH) NTD (E)
+http://117tv.icu:8080/live/X5xRz0/944877/58023.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA NTV St. John`s
+http://117tv.icu:8080/live/X5xRz0/944877/57478.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA OLN (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57366.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: OMNI1 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57365.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: OMNI2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/57364.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA OWN
+http://117tv.icu:8080/live/X5xRz0/944877/57277.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: PBS HD
+http://117tv.icu:8080/live/X5xRz0/944877/57276.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Peachtree TV HD (R)
+http://117tv.icu:8080/live/X5xRz0/944877/47362.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Showcase HD
+http://117tv.icu:8080/live/X5xRz0/944877/47366.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Slice TV
+http://117tv.icu:8080/live/X5xRz0/944877/57274.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Smithsonian Channel (B)
+http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet 360 (HD)
+http://117tv.icu:8080/live/X5xRz0/944877/57299.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet East HD (F)
+http://117tv.icu:8080/live/X5xRz0/944877/57298.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet One (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/57297.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet One (HD)
+http://117tv.icu:8080/live/X5xRz0/944877/47379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Sportsnet Ontario
+http://117tv.icu:8080/live/X5xRz0/944877/57463.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet Ontario HD
+http://117tv.icu:8080/live/X5xRz0/944877/57296.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet Pacific HD
+http://117tv.icu:8080/live/X5xRz0/944877/47387.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: SPORTSNET WEST
+http://117tv.icu:8080/live/X5xRz0/944877/57300.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV SCI-FI
+http://117tv.icu:8080/live/X5xRz0/944877/57464.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: TFO  (FR)
+http://117tv.icu:8080/live/X5xRz0/944877/57291.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TLC
+http://117tv.icu:8080/live/X5xRz0/944877/57290.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA : The Shopping Channel (B)
+http://117tv.icu:8080/live/X5xRz0/944877/57370.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 1 (R)
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 3 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 4
+http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 4 (B)
+http://117tv.icu:8080/live/X5xRz0/944877/47446.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57467.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: TV Ontario HD
+http://117tv.icu:8080/live/X5xRz0/944877/57369.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Vision
+http://117tv.icu:8080/live/X5xRz0/944877/57468.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA W Network East (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57284.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA A&E
+http://117tv.icu:8080/live/X5xRz0/944877/57264.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: World Fishing Network
+http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA YES TV (R)
+http://117tv.icu:8080/live/X5xRz0/944877/57472.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Peterborough News (E)
+http://117tv.icu:8080/live/X5xRz0/944877/85269.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC Windsor
+http://117tv.icu:8080/live/X5xRz0/944877/86749.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA | BBC EARTH
+http://117tv.icu:8080/live/X5xRz0/944877/99621.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Durham (CHEX-DT-2) (R)
+http://117tv.icu:8080/live/X5xRz0/944877/100453.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Sudbury Ontario HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/100454.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Timmins Ontario HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/100455.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA WILD TV
+http://117tv.icu:8080/live/X5xRz0/944877/100456.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Super Channel Heart & Home (R)
+http://117tv.icu:8080/live/X5xRz0/944877/100460.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: CBC Winnipeg
+http://117tv.icu:8080/live/X5xRz0/944877/100628.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global News Winnipeg (D)
+http://117tv.icu:8080/live/X5xRz0/944877/100629.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV WINNIPEG (E)
+http://117tv.icu:8080/live/X5xRz0/944877/100630.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CITY TV WINNIPEG (E)
+http://117tv.icu:8080/live/X5xRz0/944877/100631.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Silver Screen (E)
+http://117tv.icu:8080/live/X5xRz0/944877/107190.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA COOKING Channel
+http://117tv.icu:8080/live/X5xRz0/944877/107960.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: Travel Escape
+http://117tv.icu:8080/live/X5xRz0/944877/108136.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global News Calgary (D)
+http://117tv.icu:8080/live/X5xRz0/944877/111067.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Calgary
+http://117tv.icu:8080/live/X5xRz0/944877/115349.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV LIFE (E)
+http://117tv.icu:8080/live/X5xRz0/944877/116506.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Dejaview HD (B)
+http://117tv.icu:8080/live/X5xRz0/944877/122001.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Edmonton (D)
+http://117tv.icu:8080/live/X5xRz0/944877/132271.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV2 VANCOUVER ISLAND (E)
+http://117tv.icu:8080/live/X5xRz0/944877/136612.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Montreal HD (B)
+http://117tv.icu:8080/live/X5xRz0/944877/136640.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Monterial News (E)
+http://117tv.icu:8080/live/X5xRz0/944877/136641.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Peterborough News (E)
+http://117tv.icu:8080/live/X5xRz0/944877/137681.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA: BBC World News
+http://117tv.icu:8080/live/X5xRz0/944877/139752.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA documentary HD (B)
+http://117tv.icu:8080/live/X5xRz0/944877/148610.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Global Maritimes HD (R)
+http://117tv.icu:8080/live/X5xRz0/944877/171954.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA HPItv East HD
+http://117tv.icu:8080/live/X5xRz0/944877/173131.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV Halifax Nova Scotia HD (D)
+http://117tv.icu:8080/live/X5xRz0/944877/188776.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA CTV HALIFAX (E)
+http://117tv.icu:8080/live/X5xRz0/944877/188777.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA H2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/210450.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet East (D)
+http://117tv.icu:8080/live/X5xRz0/944877/41836.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="CANADA TV", CA Sportsnet One (E)
+http://117tv.icu:8080/live/X5xRz0/944877/10247.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA TV", CA TSN 4 HD
+http://117tv.icu:8080/live/X5xRz0/944877/16130.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="CANADA TV", CA Sportsnet 360 HD
+http://117tv.icu:8080/live/X5xRz0/944877/2219.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="CANADA TV", CA Sportsnet Ontario (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/11649.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="CANADA TV", CA Sportsnet Pacific (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/9860.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="CANADA TV", CA Sportsnet West (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/20975.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA Sportsnet World HD
+http://117tv.icu:8080/live/X5xRz0/944877/75675.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA TV", CA TSN 1 (E)
+http://117tv.icu:8080/live/X5xRz0/944877/57292.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA TV", CA TSN 2 (R)
+http://117tv.icu:8080/live/X5xRz0/944877/16129.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA TV", CA TSN 3 HD
+http://117tv.icu:8080/live/X5xRz0/944877/10389.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="CANADA TV", CA TSN 5 HD
+http://117tv.icu:8080/live/X5xRz0/944877/16131.m3u8
+
+================================== TIMNAS =================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="##🇮🇩LIVE TIMNAS🇮🇩##", TIMNAS 1
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="##🇮🇩LIVE TIMNAS🇮🇩##", TIMNAS 2
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="##🇮🇩LIVE TIMNAS🇮🇩##", TIMNAS 3
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="##🇮🇩LIVE TIMNAS🇮🇩##", TIMNAS 4
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="##🇮🇩LIVE TIMNAS🇮🇩##", TIMNAS 5
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas5.m3u8
+
+=================================== VOLLY ===================================
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc1.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc2.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc3.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 4
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc4.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 5
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc5.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 6
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc6.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 7
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc7.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 8
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc8.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 9
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/aafc9.m3u8
+
+==================================== F1 ======================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 1 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula11.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 2 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula12.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 3 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula13.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 4 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula14.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 5 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula15.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/fformula16.m3u8
+
+=================================== MOTO GP ========================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 1 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp1.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 2 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp2.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 3 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp3.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 4 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp4.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 5 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp5.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 6 
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Y9vi7GCANAndnbnc8RfeZX8z6QPuO96m-4fhWrgP219xOabj7WSlxj6&s=10" group-title="##🏁🏍️MOTOGP🏍️🏁##", LIVE 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/mmotogp7.m3u8
+
+
+------------------ BRI LIGA 1 ------------------------
+
+#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri1.m3u8
+#http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 3
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri11.m3u8
